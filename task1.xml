@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="task1">
+    <Basepaths>/task1</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1671001031084</CreatedAt>
+    <CreatedBy>tricksintrades@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>task1</DisplayName>
+    <LastModifiedAt>1671024854846</LastModifiedAt>
+    <LastModifiedBy>tricksintrades@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:245ef5dc21f4852e2ce15e3301456c8061b767dd13583ccf6ae8139f5203ddefed563530b13d5c34408e361187c92f8383cd02a7981a84899a7fe65eee2ddb18:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>AM-QuotaErrorMessage</Policy>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>Assign-Message-2</Policy>
+        <Policy>DecodeBaseAuthHeaders</Policy>
+        <Policy>Quota-1</Policy>
+        <Policy>Service-Callout-1</Policy>
+        <Policy>Service-Callout-2</Policy>
+        <Policy>Spike-Arrest-1</Policy>
+        <Policy>Verify-API-Key-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>

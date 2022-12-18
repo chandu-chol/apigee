@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-QuotaErrorMessage" version="SHA-512:3367b2970e9ca09ccc434e13fd522fe7a80a12426abd881bae3a48d4824ca51f79bb1fc188f6c8bce9f6d511bb1e7be268f576ddea6634827393fb72ba4f13e0"/>
+        <VersionInfo resourceName="Assign-Message-1" version="SHA-512:c4befddf9b95dbcef49440a36137a121dabec94968f39c18f8042ed12a936d6f933e83fd3f2c3559553c9b4d6ffb4de079de736a461c8ce34822891d03685fbc"/>
+        <VersionInfo resourceName="Assign-Message-2" version="SHA-512:f2416a74b42dfdbf85c62d131f89a765591f520a6d92a42faa81307ec4c9c54f39e4e9a50b198b45add0d52fe48ab631812945d33f984b025ccf0b96bc75ed64"/>
+        <VersionInfo resourceName="DecodeBaseAuthHeaders" version="SHA-512:e735a0f6bf439529211870e86ca909e52ea62c78881b6b21765495775b2654787e094dde2be1ca5525764b9cef43442f3b09db3dacb5cdbf44de4202bcabbf3b"/>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:3af3db2b7123e4fd619df8405757dca53af4f7914beaedaa1017313704db54afb018c8d5a3c5d171ba19f048b9277d58738dc797c1e172216c4ea5d6a0efc8b7"/>
+        <VersionInfo resourceName="Service-Callout-1" version="SHA-512:dd9f6b53d74f0749f33d7edc9fe205a6b244b8b2f163178cf6bc81616be2cccca558b1233f2cbff1a878dd51cede67d27a3e2538ba2c921db30e80a8b30df567"/>
+        <VersionInfo resourceName="Service-Callout-2" version="SHA-512:f362f691d2345b10d41f72ae6eb94f8aae9f04acbf073af3cbcd220a1b39c8e3b26840f74258f144fae4244684348d6a819290b31b64367d78726306da2923f2"/>
+        <VersionInfo resourceName="Spike-Arrest-1" version="SHA-512:75939c322380dd0d9f3d25ece68aaea90ffa77f2ba90ab36c88ce1d2f078abd8839c2f75c902449831e09e32c3cfc286fa51604febc98fbfe9d5b974631ce007"/>
+        <VersionInfo resourceName="Verify-API-Key-1" version="SHA-512:a811f867dc9788de0e730c471c8f3d051af1d11f030c129f150afb70d70c7bb22504e4d07068a7b75f0a00f4fb2c8ffcd34852feb55d1f67b0f293a5dccee6ea"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:c89362772bedf2ba1c468a7cbc3100b90c1d17c1341b234b762c797e58ec4ee7ea98eb765b04aea688f15ca5b7724d67456eed79a1ed86ea2aedefe084f8eb66"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>

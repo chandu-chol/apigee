@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage async="false" continueOnError="false" enabled="true" name="AM-QuotaErrorMessage">
+    <DisplayName>AM-QuotaErrorMessage</DisplayName>
+    <properties/>
+    <Set>
+        <Payload>{"Error_message":"limit exceded"}</Payload>
+    </Set>
+    <AssignTo createNew="false" transport="http" type="response"/>
+</AssignMessage>
